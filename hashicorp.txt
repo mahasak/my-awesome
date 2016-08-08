@@ -1,0 +1,9 @@
+go get -u github.com/hashicorp/terraform
+go get -u github.com/kardianos/govendor
+go get -u github.com/hashicorp/serf
+go get -u github.com/hashicorp/consul
+go get -u github.com/hashicorp/vault
+go get -u github.com/hashicorp/nomad
+go get -u github.com/hashicorp/otto
+go get -u github.com/mitchellh/packer
+
